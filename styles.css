@@ -6,7 +6,18 @@ img{
     margin-top:100px;
 
 }
-#search{
+#search-field{
     margin-top: 10px;
     margin-left: 520px;
+    height: 44px;
+    border-radius: 24px;
+    max-width: 504px;
+    width: auto;
+}
+.search-buttons{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 530px;
+    height: 30px;
+    border-radius: 50%;
 }
