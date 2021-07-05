@@ -8,11 +8,11 @@ img{
 }
 #search-field{
     margin-top: 10px;
-    margin-left: 520px;
-    height: 44px;
+    margin-left: 480px;
+    height: 35px;
     border-radius: 24px;
     max-width: 504px;
-    width: auto;
+    width: 295px;
 }
 .search-buttons{
     display: flex;
